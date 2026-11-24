@@ -1,0 +1,8 @@
+node_modules/
+.claude/
+.superpowers/
+dist/
+*.mov
+*.log
+.DS_Store
+Thumbs.db
